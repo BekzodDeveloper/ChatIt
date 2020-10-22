@@ -1,0 +1,6 @@
+.mypage{
+    grid-area: mypage;
+
+    background-color: mediumslateblue;
+    color: #61dafb;
+}

@@ -1,0 +1,6 @@
+.nav{
+    grid-area: nav;
+
+    background-color: navajowhite;
+    color: #61dafb;
+}
